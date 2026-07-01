@@ -1,7 +1,7 @@
 # Sistema de Gerenciamento de Biblioteca
 
 ## Integrantes:
-- Guilherme
+- Guilherme Mendonça Castro
 - Jo
 - Rayssa Oliveira Martins das Chagas.
 
